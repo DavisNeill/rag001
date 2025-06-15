@@ -1,0 +1,45 @@
+# Core LangChain/LangGraph - Laissez pip choisir les versions récentes et compatibles
+langchain
+langgraph
+langchain-community
+langchain-core
+
+# Vector Stores
+chromadb
+qdrant-client
+
+# Embeddings & LLMs
+sentence-transformers
+ollama
+openai
+
+# Database
+sqlalchemy
+psycopg2-binary
+pymongo
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+fastapi
+uvicorn
+# numpy et pandas sont déjà installés, mais on les laisse pour la complétude
+pandas
+numpy
+
+# CLI
+click
+
+# Development
+pytest
+pytest-cov
+black
+flake8
+pre-commit
+jupyter
+
+# Monitoring
+wandb
+
+langchain-google-genai

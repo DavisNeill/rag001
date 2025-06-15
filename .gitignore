@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Data
+data/vector_db/
+data/private_db/
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Models
+models/
+*.bin
+*.safetensors
+
+# API Keys
+*.key
+secrets/
